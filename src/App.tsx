@@ -161,7 +161,7 @@ export default function App() {
             className="flex justify-center"
           >
             <img
-              src="public/ilustrasi.png"
+              src="/ilustrasi.png"
               alt="illustration kerja tim dan administrasi"
               className="w-80 md:w-105 drop-shadow-xl 
               transition-all duration-500 ease-out 
