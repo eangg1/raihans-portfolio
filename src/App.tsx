@@ -196,7 +196,7 @@ export default function App() {
 
               {/* download cv */}
               <a
-                href="/cv.pdf"
+                href="/CV-RAIHAN-DWI-SAPUTRA.pdf"
                 download
                 className="flex items-center gap-2 px-5 py-3 rounded-xl bg-black text-white dark:bg-white dark:text-black text-sm font-medium hover:scale-105 transition"
               >
