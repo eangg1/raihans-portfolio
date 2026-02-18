@@ -162,7 +162,7 @@ export default function App() {
           >
             <img
               src="/ilustrasi.png"
-              alt="illustration kerja tim dan administrasi"
+              alt="illustrasi"
               className="w-80 md:w-105 drop-shadow-xl 
               transition-all duration-500 ease-out 
               hover:scale-105 hover:rotate-3 hover:-translate-y-2"
